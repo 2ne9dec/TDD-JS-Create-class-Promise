@@ -1,0 +1,23 @@
+{
+  "name": "tdd-js-create-class-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "promise.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2ne9dec/TDD-JS-Create-class-Promise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ne9dec/TDD-JS-Create-class-Promise/issues"
+  },
+  "homepage": "https://github.com/2ne9dec/TDD-JS-Create-class-Promise#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
